@@ -2,6 +2,8 @@
 
 ## How to run
 
+If you already have this project in your local machine just type ```git pull``` inside the game's directory and run ```node /lib/play.js```
+
 1. Clone this repo using the following command in your terminal: 
 
 ```git clone https://github.com/Imtico/Minesweeper-```
@@ -12,7 +14,7 @@
 
 3. Run in terminal:
 
-```node play.js```
+```node /lib/play.js```
 
 ## Issues
 
